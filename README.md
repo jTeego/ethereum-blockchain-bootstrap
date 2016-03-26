@@ -1,10 +1,10 @@
 # Ethereum Blockchain Bootstrap
-Date: 2016-03-25
+Date: 2016-03-26
 
 ### Magnet URI
 
 ```
-magnet:?xt=urn:btih:76422D82D9C9EE4165E95F7212DBE5134439109E&dn=ethereum-blockchain.bin&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce
+magnet:?xt=urn:btih:C13F4BE310B3D60D312FB3D3B50FD6D475E33E94&dn=ethereum-blockchain.bin&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce
 ```
 
 ### Importing
